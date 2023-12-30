@@ -13,6 +13,10 @@
 - STM32CubeMX
 - Keil MDK v5
 
+## 電路圖
+
+![STM32 Board](images/circuit.png)
+
 ## 構建和編譯
 
 1. 在 Keil MDK 中打開 MDK-ARM\LED.uvprojx
@@ -29,5 +33,3 @@
 ## 作者
 
 - 莊啟暉
-
-
